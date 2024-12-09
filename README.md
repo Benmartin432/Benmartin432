@@ -3,4 +3,4 @@
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
 - <b>House Price Predictor (Model)</b>
-  - [Machine Learning Model using Jupyter Notebooks](https://github.com/Benmartin432/HousingPricePredictor.git)
+  - [Model to Predict Future House Prices](https://github.com/Benmartin432/HousingPricePredictor.git)
