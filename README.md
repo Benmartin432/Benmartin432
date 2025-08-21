@@ -11,5 +11,5 @@
 
  <h2>📚 SQL In-Depth Analysis:</h2>
  
-- <b>College Football 2025 Quarterback Hidden Gems Analyis (Model)</b>
+- <b>College Football 2025 Quarterback Hidden Gems Analyis</b>
   - [SQL Deep Dive and Data Analysis for Hidden Gem Quarterbacks in College Football 2025](https://github.com/Benmartin432/cfb_2025_quarterbacks_sql.git)
