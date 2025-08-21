@@ -7,4 +7,9 @@
 
 - <b>Baseball Player WAR Predictor (Model)</b>
   - [Model to Predict Baseball Player Wins Above Replacement](https://github.com/Benmartin432/BaseballWARModel.git)
-    
+
+
+ <h2>📚 SQL In-Depth Analysis:</h2>
+ 
+- <b>College Football 2025 Quarterback Hidden Gems Analyis (Model)</b>
+  - [SQL Deep Dive and Data Analysis for Hidden Gem Quarterbacks in College Football in 2025](https://github.com/Benmartin432/cfb_2025_quarterbacks_sql.git)
