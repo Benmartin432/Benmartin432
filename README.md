@@ -1,4 +1,4 @@
-<h1>Hi, I'm Benjamin! <br/><a href="https://www.linkedin.com/in/benjaminmartin432/">Machine Learning and AI Engineer</a>, <a href="https://www.linkedin.com/in/benjaminmartin432/">Data Scientist</a>,  <a href="https://www.linkedin.com/in/benjaminmartin432/">Data Engineer</a></h1>
+<h1>Hi, I'm Benjamin! <br/><a href="https://www.linkedin.com/in/benjaminmartin432/">Machine Learning and AI Engineer</a>, <a href="https://www.linkedin.com/in/benjaminmartin432/">Data Scientist</a></h1>
 
 
  <h2>📚 SQL In-Depth Analyses:</h2>
