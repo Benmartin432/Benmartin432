@@ -18,6 +18,9 @@
 - <b>Baseball Player WAR Predictor (Model)</b>
   - [Model to Predict Baseball Player Wins Above Replacement](https://github.com/Benmartin432/BaseballWARModel.git)
 
+ - <b>Stock Gainers Predictor (Model)</b>
+  - [Model to Predict Which Stocks Are Most Likely To Become Profitable Swing Trades](https://github.com/Benmartin432/stock_predictor.git)
+
 
  <h2>📊 Tableau Project:</h2>
  
