@@ -34,9 +34,9 @@
   - [R Code Statistical Analysis of Nashville Housing Data](https://github.com/Benmartin432/Nashville_Housing_Analysis.git)
 
  
- <h2>🦾 Hack-A-Thon Competitions:</h2>
+ <h2>🦾 Machine Learning and Data Science Competitions:</h2>
 
-- <b>Global Air Pollution Prediction Challenge(Model)</b>
+- <b>Global Air Pollution Prediction Challenge</b>
   - [Model to Predict Pollution for a Cleaner Tomorrow, Hosted By BitGrit](https://github.com/Benmartin432/air_pollution_predictor_competition.git)
 
 
