@@ -34,9 +34,14 @@
   - [R Code Statistical Analysis of Nashville Housing Data](https://github.com/Benmartin432/Nashville_Housing_Analysis.git)
 
  
- <h2>🦾 Machine Learning and Data Science Competitions:</h2>
+ <h2>🦾 Data Science and Machine Learning Competitions:</h2>
 
 - <b>Global Air Pollution Prediction Challenge</b>
   - [Model to Predict Pollution for a Cleaner Tomorrow, Hosted By BitGrit](https://github.com/Benmartin432/air_pollution_predictor_competition.git)
 
+
+ <h2>📱 Full Apps:</h2>
+
+- <b>Personality Tests App</b>
+  - [Take These Personality Tests to Discover Who You Are](https://github.com/Benmartin432/personality_quizzes.git)
 
